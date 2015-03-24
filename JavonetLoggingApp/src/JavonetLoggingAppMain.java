@@ -8,8 +8,9 @@ public class JavonetLoggingAppMain {
 
 	public static void main(String[] args) throws JavonetException, InterruptedException {
 		
-		//**************** JAVONET SAMPLE **************************
-		// IMPORTANT: Before running this sample please make sure
+		// *************** JAVONET SAMPLE **************************
+		// *************** IMPORTANT ******************************* 
+		// Before running this sample please make sure
 		// that:
 		//
 		// 1) You have downloaded and added to references 
@@ -24,7 +25,7 @@ public class JavonetLoggingAppMain {
 		//
 		// To obtain FREE trial license key please visit:
 		// http://www.javonet.com/signup-for-trial/
-		//**********************************************************
+		// *********************************************************
 				
 		
 		//Modify JavonetFramework version to the one installed on your computer: v35, v40 or v45

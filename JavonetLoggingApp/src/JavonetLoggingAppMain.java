@@ -10,7 +10,13 @@ public class JavonetLoggingAppMain {
 		
 		//**************** JAVONET SAMPLE **************************
 		// IMPORTANT: Before running this sample please make sure
-		// that you have updated Javonet.activate method arguments
+		// that:
+		// 1) Downloaded and added to references latest version of Javonet JAR
+		//
+		// Latest Javonet release available at: 
+		// https://www.javonet.com/download/
+		//
+		// 2) You have updated Javonet.activate method arguments
 		// by replacing default email address and license key with 
 		// your activation details.
 		//
@@ -18,8 +24,6 @@ public class JavonetLoggingAppMain {
 		// http://www.javonet.com/signup-for-trial/
 		//**********************************************************
 				
-		//Download and paste into this project the latest version of Javonet JAR
-		//Latest Javonet release available at: https://www.javonet.com/download/
 		
 		//Modify JavonetFramework version to the one installed on your computer: v35, v40 or v45
 		Javonet.activate("sdncenter@gmail.com", "Tj4n-n5Y8-Zi3g-g8NL-p9C2",JavonetFramework.v40);

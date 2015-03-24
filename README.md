@@ -14,7 +14,7 @@ Unless required by applicable law or agreed to in writing, software distributed 
 
 # Running Tutorial Projects
 To run the tutorial project:
-1) Clone the repository to your local machine. 
-2) Open the project using Eclipse or other JAVA IDE of your choice.
-3) Download latest release of Javonet JAR file http://www.javonet.com/download/
-4) Add latest release of Javonet to the tutorial project.
+1. Clone the repository to your local machine. 
+2. Open the project using Eclipse or other JAVA IDE of your choice.
+3. Download latest release of Javonet JAR file http://www.javonet.com/download/
+4. Add latest release of Javonet to the tutorial project.

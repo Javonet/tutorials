@@ -6,7 +6,7 @@ import com.javonet.api.NObject;
 
 public class JavonetLoggingAppMain {
 
-	public static void main(String[] args) throws JavonetException, InterruptedException {
+	public static void main(String[] args) throws JavonetException {
 		
 		// *************** JAVONET SAMPLE **************************
 		// *************** IMPORTANT ******************************* 
@@ -31,7 +31,7 @@ public class JavonetLoggingAppMain {
 		//Modify JavonetFramework version to the one installed on your computer: v35, v40 or v45
 		Javonet.activate("sdncenter@gmail.com", "Tj4n-n5Y8-Zi3g-g8NL-p9C2",JavonetFramework.v40);
 		Javonet.addReference("log4net.dll");
-		Thread.sleep(5000);
+
 		Javonet.getType("BasicConfigurator").invoke("Configure");
 		
 		NObject log = Javonet.getType("LogManager").invoke("GetLogger","main");

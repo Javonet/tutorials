@@ -11,9 +11,11 @@ public class JavonetLoggingAppMain {
 		//**************** JAVONET SAMPLE **************************
 		// IMPORTANT: Before running this sample please make sure
 		// that:
-		// 1) Downloaded and added to references latest version of Javonet JAR
 		//
-		// Latest Javonet release available at: 
+		// 1) You have downloaded and added to references 
+		// the latest version of Javonet JAR
+		//
+		// Latest Javonet release can be obtained from: 
 		// https://www.javonet.com/download/
 		//
 		// 2) You have updated Javonet.activate method arguments

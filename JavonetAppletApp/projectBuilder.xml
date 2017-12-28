@@ -16,7 +16,7 @@
   		storetype="PKCS12" 
   		storepass="javonet" 
   		keypass="javonet" 
-  		tsaurl="https://timestamp.geotrust.com/tsa" 
+  		tsaurl="http://tsa.safecreative.org" 
   		preservelastmodified="true" />
   	<signjar 
   		jar="javonet_1.4hf10.jar" 
@@ -25,7 +25,7 @@
   		storetype="PKCS12" 
   		storepass="javonet" 
   		keypass="javonet" 
-  		tsaurl="https://timestamp.geotrust.com/tsa" 
+  		tsaurl="http://tsa.safecreative.org" 
   		preservelastmodified="true" />
   </target>
 </project>

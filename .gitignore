@@ -1,3 +1,8 @@
 bin
 .metadata
 javonet_*.jar
+/.recommenders/
+
+Servers/
+
+RemoteSystemsTempFiles/

@@ -6,3 +6,4 @@ javonet_*.jar
 Servers/
 
 RemoteSystemsTempFiles/
+DotNet/HelloWorldFromJavaConsoleApp/NetCoreConsoleApp/Binaries/

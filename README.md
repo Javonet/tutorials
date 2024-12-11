@@ -1,8 +1,8 @@
 # Javonet Tutorials
-The samples in this directory use Javonet to use .NET DLLs in JAVA illustrating how you can levarage the possibilities of Javonet in your JAVA projects. For each project there is step by step guide available at http://www.javonet.com/tutorials/.
+This repository provides simple, step-by-step tutorials demonstrating how to integrate multiple programming languages with Javonet. For each project there is step by step guide available at http://www.javonet.com/tutorials/.
 
 # License
-The Apache License 2.0 applies to all saples in this repository.
+The Apache License 2.0 applies to all samples in this repository.
 
 Copyright 2013 SdNcenter
 

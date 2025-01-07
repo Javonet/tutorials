@@ -1,5 +1,5 @@
 ﻿// Activate Javonet using your license key
-Javonet.Netcore.Sdk.Javonet.Activate("n9B5-Km7g-Pp69-j9FE-e9A5");
+Javonet.Netcore.Sdk.Javonet.Activate("YOUR-ACTIVATION-KEY");
 
 // Initialize Java runtime environment
 var rtmCtx = Javonet.Netcore.Sdk.Javonet.InMemory().Jvm();

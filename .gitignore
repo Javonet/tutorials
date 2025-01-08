@@ -1,6 +1,7 @@
 # Ignore Javonet files
 javonet.lic
 _JavonetNativeErrorLogger*
+__pycache__/
 
 # Ignore build and debug outputs for .NET Core projects
 bin/

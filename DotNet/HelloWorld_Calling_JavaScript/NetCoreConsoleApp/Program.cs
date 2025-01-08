@@ -14,7 +14,7 @@ internal class Program
 
         // set up variables
         // libraryPath - directory with .js files
-        string libraryPath = @"../HelloWorld-JavaScript/ExampleClass.js";
+        string libraryPath = @"../JavaScriptHelloWorld/ExampleClass.js";
         string className = "ExampleClass";
 
         // load custom library

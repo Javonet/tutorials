@@ -3,14 +3,8 @@ javonet.lic
 _JavonetNativeErrorLogger*
 __pycache__/
 
-# Ignore compiled files for tutorials
-!Python/HelloWorld_Calling_NetCore/NetCoreHelloWorld/bin/
-!Python/HelloWorld_Calling_NetCore/NetCoreHelloWorld/bin/Debug/
-!Python/HelloWorld_Calling_NetCore/NetCoreHelloWorld/bin/Debug/net8.0/
-!Python/HelloWorld_Calling_NetCore/NetCoreHelloWorld/bin/Debug/net8.0/NetCoreHelloWorld.dll
-
 # Ignore build and debug outputs for .NET Core projects
-#bin/
+bin/
 obj/
 Binaries/
 .vscode/
@@ -111,7 +105,6 @@ build/
 out/
 
 
-bin
 .metadata
 javonet_*.jar
 /.recommenders/

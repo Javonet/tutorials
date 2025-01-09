@@ -2,7 +2,7 @@ from javonet.sdk import Javonet
 
 if __name__ == '__main__':
     # use Activate only once in your app
-    Javonet.activate("p9E8-t2W7-p9NK-Fn48-q9KJ")
+    Javonet.activate("YOUR_JAVONET_LICENSE_KEY")
 
     # create called runtime context
     called_runtime = Javonet.in_memory().nodejs()

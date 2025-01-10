@@ -1,0 +1,14 @@
+{
+  "name": "javonetjavascriptexample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "javonet-nodejs-sdk": "^2.5.9"
+  }
+}

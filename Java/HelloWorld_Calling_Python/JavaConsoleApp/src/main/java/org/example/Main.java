@@ -28,6 +28,5 @@ public class Main {
 
         // write result to console
         System.out.println(result);
-        System.out.println(result);
     }
 }

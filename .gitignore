@@ -57,13 +57,13 @@ coverage/
 *.jfm
 
 # Java-related ignores
-*.class
-*.jar
+#*.class
+#*.jar
 *.war
 *.ear
 
 # Compiled class file
-*.class
+#*.class
 
 # Mobile tools specific files
 .mtk/
